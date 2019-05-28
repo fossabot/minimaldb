@@ -1,4 +1,6 @@
 # Minimaldb
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FZAZPRO%2Fminimaldb.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FZAZPRO%2Fminimaldb?ref=badge_shield)
+
 
 Minimaldb is a very simple document oriented database.
 
@@ -28,3 +30,7 @@ db.delete("key_name")
 
 # Updating a value
 db.update("key_name", value)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FZAZPRO%2Fminimaldb.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FZAZPRO%2Fminimaldb?ref=badge_large)
